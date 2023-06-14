@@ -1,6 +1,8 @@
 # 08-Jobs-API-Node.js
 
-This project 8/50 of my Node.js project series. It's a jobs API that includes authentication, error handling globally and query selection.
+This project 8/50 of my Node.js project series. 
+
+It's a jobs API that includes authentication, error handling globally and query selection.
 
 ## Auth
 
